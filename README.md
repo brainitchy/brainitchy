@@ -6,14 +6,14 @@
 </p>
 
 
-
 <p align="center">
   Hi! It's me, 𝓑r͟a͟i͟n͟i͟t͟c͟h͟y͟! Pls ડꪱᜒ𝗀𐓣 my 🇦‌🇹‌🇦‌!
 </p>
 <div align="center">
 
-<a href="https://brainitchy.atabook.org/">
-  <img src="https://img.shields.io/badge/ATABOOK-ffb6d9?style=for-the-badge">
-</a>
 
-</div>
+<p align="center">
+  <a href="https://brainitchy.atabook.org/">
+    <img src="https://64.media.tumblr.com/4a47475d5aea05b7cd6e7265e2cb53ba/3061a5a1dfc104a8-5e/s100x200/67fb37a04edec6a6e8d61e6f6f192c69b59202c4.pnj" width="80">
+  </a>
+</p>
